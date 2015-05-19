@@ -7,3 +7,6 @@
 [submodule "bundle/typescript-vim"]
 	path = bundle/typescript-vim
 	url = git://github.com/leafgarland/typescript-vim.git
+[submodule "bundle/vimproc.vim"]
+	path = bundle/vimproc.vim
+	url = git://github.com/shougo/vimproc.vim.git

@@ -1,0 +1,9 @@
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "bundle/tsuquyomi"]
+	path = bundle/tsuquyomi
+	url = git://github.com/quramy/tsuquyomi.git
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = git://github.com/leafgarland/typescript-vim.git
